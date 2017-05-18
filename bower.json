@@ -1,0 +1,16 @@
+{
+  "name": "polymer-cache-spike",
+  "description": "Polymer cache handling exploration",
+  "main": "index.html",
+  "version": "1.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "iron-ajax": "PolymerElements/iron-ajax#^2.0.0",
+    "paper-toast": "^2.0.0",
+    "paper-button": "^2.0.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  }
+}

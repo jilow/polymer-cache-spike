@@ -1,0 +1,7 @@
+{
+  "name": "polymer-cache-spike",
+  "short_name": "polymer-cache-spike",
+  "description": "Polymer cache handling exploration",
+  "start_url": "/",
+  "display": "standalone"
+}
